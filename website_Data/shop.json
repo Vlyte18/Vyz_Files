@@ -1,0 +1,59 @@
+[
+    {
+        "title": "Website Template",
+        "cardClass": "vendor-card tier-premium",
+        "tagText": "TOOLKIT_EXT",
+        "tagClass": "vendor-tag engine-tag",
+        "tagIcon": "fa-solid fa-gear",
+        "statusText": "STABLE_BUILD",
+        "statusClass": "system-status online",
+        "previewIcon": "fa-solid fa-laptop-code",
+        "price": "$10.00",
+        "description": "This current website template with limited files. You are able to create more for your own use as long as you give credit.",
+        "specs": [
+            "Compatibility: HTML5, CSS, JS",
+            "Architecture: Web Development"
+        ],
+        "buttonText": "DOWNLOAD_SITE",
+        "buttonUrl": "https://vyzlyte.gumroad.com/l/Interface",
+        "hidden": false
+    },
+    {
+        "title": "Retro Interface Module",
+        "cardClass": "vendor-card tier-standard",
+        "tagText": "ASSET_PACK",
+        "tagClass": "vendor-tag asset-tag",
+        "tagIcon": "fa-solid fa-cubes",
+        "statusText": "READY_LO",
+        "statusClass": "system-status online",
+        "previewIcon": "fa-solid fa-palette",
+        "price": "$10.00",
+        "description": "A comprehensive set of modular UI components, terminal windows, custom icons, and borders inspired by vintage technical aesthetics.",
+        "specs": [
+            "Format: .PNG Layered / Resources",
+            "Resolution: Vector Scaling Enabled"
+        ],
+        "buttonText": "DOWNLOAD_STREAM",
+        "buttonUrl": "#",
+        "hidden": true
+    },
+    {
+        "title": "Cybernetic Loop Array",
+        "cardClass": "vendor-card tier-free",
+        "tagText": "AUDIO_STEM",
+        "tagClass": "vendor-tag audio-tag",
+        "tagIcon": "fa-solid fa-wave-square",
+        "statusText": "OPEN_SOURCE",
+        "statusClass": "system-status archive",
+        "previewIcon": "fa-solid fa-music",
+        "price": "FREE",
+        "description": "An archive of seamless background tracks, synthesizer loops, and atmospheric texturing designed for menu systems and backdrops.",
+        "specs": [
+            "Format: High-Fidelity .WAV / .OGG",
+            "Licensing: Creative Commons CC-BY"
+        ],
+        "buttonText": "ACCESS_NODE",
+        "buttonUrl": "#",
+        "hidden": true
+    }
+]
