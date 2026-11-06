@@ -1,0 +1,67 @@
+[
+    {
+        "categoryKey": "tier-fave",
+        "title": "Fave",
+        "tagText": "HIGH_PRIORITY",
+        "tagClass": "gold-tag",
+        "tagIcon": "fa-solid fa-star",
+        "itemIcon": "fa-solid fa-angles-right list-arrow",
+        "isGridSplit": false,
+        "items": [
+            "Spanking",
+            "Clawing",
+            "Biting"
+        ]
+    },
+    {
+        "categoryKey": "tier-yes",
+        "title": "Yes",
+        "tagText": "ALLOW_ALLOWED",
+        "tagClass": "green-tag",
+        "tagIcon": "fa-solid fa-square-check",
+        "itemIcon": "fa-solid fa-check list-check",
+        "isGridSplit": false,
+        "items": [
+            "Drama"
+        ]
+    },
+    {
+        "categoryKey": "tier-maybe",
+        "title": "Maybe",
+        "tagText": "AUTH_REQUIRED",
+        "tagClass": "amber-tag",
+        "tagIcon": "fa-solid fa-triangle-exclamation",
+        "itemIcon": "fa-solid fa-circle-exclamation list-warn",
+        "isGridSplit": false,
+        "items": [
+            "Obsessive bloodshed"
+        ]
+    },
+    {
+        "categoryKey": "tier-never",
+        "title": "Never",
+        "tagText": "HARD_BLOCK",
+        "tagClass": "red-tag",
+        "tagIcon": "fa-solid fa-skull-crossbones",
+        "itemIcon": "fa-solid fa-xmark list-cross",
+        "isGridSplit": true,
+        "items": [
+            "One Liner",
+            "Feet",
+            "Vomit",
+            "Feces",
+            "Urine",
+            "Farts",
+            "Burps",
+            "Musk",
+            "Rape",
+            "Vore",
+            "Godmodding",
+            "Control my character",
+            "Instant romance",
+            "Water Sports",
+            "Diapers",
+            "Bondage"
+        ]
+    }
+]
