@@ -1,8 +1,3 @@
-// "development": "Use 'status-dev' with text like 'IN_DEVELOPMENT'",
-// "complete": "Use 'status-complete' with text like 'COMPLETE'",
-// "on_hold": "Use 'status-on-hold' with text like 'ON_HOLD'",
-// "canceled": "Use 'status-canceled' with text like 'CANCELED'"
-
 [
     {
         "title": "Evolution Engine Addon",
