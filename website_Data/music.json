@@ -1,0 +1,95 @@
+[
+    {
+        "albumTitle": "// In The Dark (Album)",
+        "sectionId": "album-in-the-dark",
+        "tracks": [
+            {
+                "trackId": "IDT_track_1",
+                "title": "Echo In The Dark",
+                "artist": "Vyz_Lyte",
+                "coverArt": "https://raw.githubusercontent.com/Vlyte18/Vyz_Files/f02087966f775f176efdfae1a44a9e47add2069a/music/art/file_00000000ee7c61fd8d90742065f479fb.png",
+                "audioUrl": "path/to/audio/echo_in_the_dark.mp3",
+                "lyrics": "Transmitted lyrics for Echo In The Dark..."
+            },
+            {
+                "trackId": "IDT_track_2",
+                "title": "Whisper In The Dark",
+                "artist": "Vyz_Lyte",
+                "coverArt": "https://raw.githubusercontent.com/Vlyte18/Vyz_Files/f02087966f775f176efdfae1a44a9e47add2069a/music/art/file_00000000ee7c61fd8d90742065f479fb.png",
+                "audioUrl": "path/to/audio/whisper_in_the_dark.mp3",
+                "lyrics": "Transmitted lyrics for Whisper In The Dark..."
+            },
+            {
+                "trackId": "IDT_track_3",
+                "title": "Screams In The Dark",
+                "artist": "Vyz_Lyte",
+                "coverArt": "https://raw.githubusercontent.com/Vlyte18/Vyz_Files/f02087966f775f176efdfae1a44a9e47add2069a/music/art/file_00000000ee7c61fd8d90742065f479fb.png",
+                "audioUrl": "path/to/audio/screams_in_the_dark.mp3",
+                "lyrics": "Transmitted lyrics for Screams In The Dark..."
+            },
+            {
+                "trackId": "IDT_track_4",
+                "title": "Never In The Dark",
+                "artist": "Vyz_Lyte",
+                "coverArt": "https://raw.githubusercontent.com/Vlyte18/Vyz_Files/f02087966f775f176efdfae1a44a9e47add2069a/music/art/file_00000000ee7c61fd8d90742065f479fb.png",
+                "audioUrl": "path/to/audio/never_in_the_dark.mp3",
+                "lyrics": "Transmitted lyrics for Never In The Dark..."
+            },
+            {
+                "trackId": "IDT_track_5",
+                "title": "Temptation in the Dark",
+                "artist": "Vyz_Lyte",
+                "coverArt": "https://raw.githubusercontent.com/Vlyte18/Vyz_Files/f02087966f775f176efdfae1a44a9e47add2069a/music/art/file_00000000ee7c61fd8d90742065f479fb.png",
+                "audioUrl": "path/to/audio/temptation_in_the_dark.mp3",
+                "lyrics": "Transmitted lyrics for Temptation in the Dark..."
+            },
+            {
+                "trackId": "IDT_track_6",
+                "title": "Always in the Dark",
+                "artist": "Vyz_Lyte",
+                "coverArt": "https://raw.githubusercontent.com/Vlyte18/Vyz_Files/f02087966f775f176efdfae1a44a9e47add2069a/music/art/file_00000000ee7c61fd8d90742065f479fb.png",
+                "audioUrl": "path/to/audio/always_in_the_dark.mp3",
+                "lyrics": "Transmitted lyrics for Always in the Dark..."
+            },
+            {
+                "trackId": "IDT_track_7",
+                "title": "Between Light To Dark",
+                "artist": "Vyz_Lyte",
+                "coverArt": "https://raw.githubusercontent.com/Vlyte18/Vyz_Files/f02087966f775f176efdfae1a44a9e47add2069a/music/art/file_00000000ee7c61fd8d90742065f479fb.png",
+                "audioUrl": "path/to/audio/between_light_to_dark.mp3",
+                "lyrics": "Transmitted lyrics for Between Light To Dark..."
+            },
+            {
+                "trackId": "IDT_track_8",
+                "title": "Return To The Dark",
+                "artist": "Vyz_Lyte",
+                "coverArt": "https://raw.githubusercontent.com/Vlyte18/Vyz_Files/f02087966f775f176efdfae1a44a9e47add2069a/music/art/file_00000000ee7c61fd8d90742065f479fb.png",
+                "audioUrl": "path/to/audio/return_to_the_dark.mp3",
+                "lyrics": "Transmitted lyrics for Return To The Dark..."
+            },
+            {
+                "trackId": "IDT_track_9",
+                "title": "Confused in the Dark",
+                "artist": "Vyz_Lyte",
+                "coverArt": "https://raw.githubusercontent.com/Vlyte18/Vyz_Files/f02087966f775f176efdfae1a44a9e47add2069a/music/art/file_00000000ee7c61fd8d90742065f479fb.png",
+                "audioUrl": "path/to/audio/confused_in_the_dark.mp3",
+                "lyrics": "Transmitted lyrics for Confused in the Dark..."
+            }
+        ]
+    },
+    {
+        "albumTitle": "// Heart Wrench Music",
+        "sectionId": "album-heart-wrench",
+        "marginTop": "40px",
+        "tracks": [
+            {
+                "trackId": "HWM_track_1",
+                "title": "Binding Lies",
+                "artist": "Vyz_Lyte",
+                "coverArt": "img/unnamed.png",
+                "audioUrl": "path/to/audio/binding_lies.mp3",
+                "lyrics": "Transmitted lyrics for Binding Lies..."
+            }
+        ]
+    }
+]
