@@ -1,0 +1,92 @@
+{
+    "IDT_track_1": {
+        "title": "Echo In The Dark",
+        "meta": "CODEC: MP3 Core | BITRATE: 320kbps | REGION: Root@Archive",
+        "desc": "A girl comes to her test. Feeling as if God has gone quiet. She has now come to her place where he left her and cries to hear his voice once more.",
+        "file": "https://raw.githubusercontent.com/Vlyte18/Vyz_Files/f02087966f775f176efdfae1a44a9e47add2069a/music/In%20the%20dark/Echo%20in%20the%20dark.mp3",
+        "format": "audio/mpeg",
+        "thumb": "https://raw.githubusercontent.com/Vlyte18/Vyz_Files/f02087966f775f176efdfae1a44a9e47add2069a/music/art/file_00000000ee7c61fd8d90742065f479fb.png",
+        "lyricsFile": "https://raw.githubusercontent.com/Vlyte18/Vyz_Files/f02087966f775f176efdfae1a44a9e47add2069a/music/Lyrics/echo_in_the_dark.txt"
+    },
+    "IDT_track_2": {
+        "title": "Whisper In The Dark",
+        "meta": "CODEC: WAVE Lossless Core | BITRATE: 1411kbps | INTERFACE: System Deck",
+        "desc": "God responds to a broken hearted girl who calls to him.",
+        "file": "https://raw.githubusercontent.com/Vlyte18/Vyz_Files/f02087966f775f176efdfae1a44a9e47add2069a/music/In%20the%20dark/Whispers%20in%20the%20Dark.mp3",
+        "format": "audio/mpeg",
+        "thumb": "https://raw.githubusercontent.com/Vlyte18/Vyz_Files/f02087966f775f176efdfae1a44a9e47add2069a/music/art/file_00000000ee7c61fd8d90742065f479fb.png",
+        "lyricsFile": ""
+    },
+    "IDT_track_3": {
+        "title": "Screams In The Dark",
+        "meta": "CODEC: MP3 Core | BITRATE: 320kbps | REGION: Root@Archive",
+        "desc": "Desperation peaks as the silence remains unbroken.",
+        "file": "https://raw.githubusercontent.com/Vlyte18/Vyz_Files/f02087966f775f176efdfae1a44a9e47add2069a/music/In%20the%20dark/Screams%20in%20the%20Silence.mp3",
+        "format": "audio/mpeg",
+        "thumb": "https://raw.githubusercontent.com/Vlyte18/Vyz_Files/f02087966f775f176efdfae1a44a9e47add2069a/music/art/file_00000000ee7c61fd8d90742065f479fb.png",
+        "lyricsFile": ""
+    },
+    "IDT_track_4": {
+        "title": "Never In The Dark",
+        "meta": "CODEC: MP3 Core | BITRATE: 320kbps | REGION: Root@Archive",
+        "desc": "Realization that light was always within reach.",
+        "file": "https://raw.githubusercontent.com/Vlyte18/Vyz_Files/f02087966f775f176efdfae1a44a9e47add2069a/music/In%20the%20dark/never%20left%20in%20the%20dark%20(3).mp3",
+        "format": "audio/mpeg",
+        "thumb": "https://raw.githubusercontent.com/Vlyte18/Vyz_Files/f02087966f775f176efdfae1a44a9e47add2069a/music/art/file_00000000ee7c61fd8d90742065f479fb.png",
+        "lyricsFile": ""
+    },
+    "IDT_track_5": {
+        "title": "Temptation In The Dark",
+        "meta": "CODEC: MP3 Core | BITRATE: 320kbps | REGION: Root@Archive",
+        "desc": "Whispers of doubt whispering in the shadows.",
+        "file": "https://raw.githubusercontent.com/Vlyte18/Vyz_Files/f02087966f775f176efdfae1a44a9e47add2069a/music/In%20the%20dark/Temtation%20in%20the%20dark.mp3",
+        "format": "audio/mpeg",
+        "thumb": "https://raw.githubusercontent.com/Vlyte18/Vyz_Files/f02087966f775f176efdfae1a44a9e47add2069a/music/art/file_00000000ee7c61fd8d90742065f479fb.png",
+        "lyricsFile": ""
+    },
+    "IDT_track_6": {
+        "title": "Always In The Dark",
+        "meta": "CODEC: MP3 Core | BITRATE: 320kbps | REGION: Root@Archive",
+        "desc": "Acceptance of the nocturnal veil.",
+        "file": "https://raw.githubusercontent.com/Vlyte18/Vyz_Files/f02087966f775f176efdfae1a44a9e47add2069a/music/In%20the%20dark/Always%20in%20the%20dark.mp3",
+        "format": "audio/mpeg",
+        "thumb": "https://raw.githubusercontent.com/Vlyte18/Vyz_Files/f02087966f775f176efdfae1a44a9e47add2069a/music/art/file_00000000ee7c61fd8d90742065f479fb.png",
+        "lyricsFile": ""
+    },
+    "IDT_track_7": {
+        "title": "Between Light To Dark",
+        "meta": "CODEC: MP3 Core | BITRATE: 320kbps | REGION: Root@Archive",
+        "desc": "Standing at the threshold of transition.",
+        "file": "https://raw.githubusercontent.com/Vlyte18/Vyz_Files/f02087966f775f176efdfae1a44a9e47add2069a/music/In%20the%20dark/Between%20the%20dark.mp3",
+        "format": "audio/mpeg",
+        "thumb": "https://raw.githubusercontent.com/Vlyte18/Vyz_Files/f02087966f775f176efdfae1a44a9e47add2069a/music/art/file_00000000ee7c61fd8d90742065f479fb.png",
+        "lyricsFile": ""
+    },
+    "IDT_track_8": {
+        "title": "Return To The Dark",
+        "meta": "CODEC: MP3 Core | BITRATE: 320kbps | REGION: Root@Archive",
+        "desc": "Journeying back into the familiar abyss.",
+        "file": "https://raw.githubusercontent.com/Vlyte18/Vyz_Files/f02087966f775f176efdfae1a44a9e47add2069a/music/In%20the%20dark/Return%20to%20the%20Dark.mp3",
+        "format": "audio/mpeg",
+        "thumb": "https://raw.githubusercontent.com/Vlyte18/Vyz_Files/f02087966f775f176efdfae1a44a9e47add2069a/music/art/file_00000000ee7c61fd8d90742065f479fb.png",
+        "lyricsFile": ""
+    },
+    "IDT_track_9": {
+        "title": "Confused In The Dark",
+        "meta": "CODEC: MP3 Core | BITRATE: 320kbps | REGION: Root@Archive",
+        "desc": "Losing orientation in the fog of uncertainty.",
+        "file": "https://raw.githubusercontent.com/Vlyte18/Vyz_Files/f02087966f775f176efdfae1a44a9e47add2069a/music/In%20the%20dark/Confused%20in%20the%20dark.mp3",
+        "format": "audio/mpeg",
+        "thumb": "https://raw.githubusercontent.com/Vlyte18/Vyz_Files/f02087966f775f176efdfae1a44a9e47add2069a/music/art/file_00000000ee7c61fd8d90742065f479fb.png",
+        "lyricsFile": ""
+    },
+    "HWM_track_1": {
+        "title": "Binding Lies",
+        "meta": "CODEC: MP3 Core | BITRATE: 320kbps | REGION: Heart Wrench Archive",
+        "desc": "Entangled in promises that fell apart.",
+        "file": "https://raw.githubusercontent.com/Vlyte18/Vyz_Files/f02087966f775f176efdfae1a44a9e47add2069a/music/Binding_Lies.mp3",
+        "format": "audio/mpeg",
+        "thumb": "img/unnamed.png",
+        "lyricsFile": ""
+    }
+}
