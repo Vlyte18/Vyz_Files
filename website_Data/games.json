@@ -1,0 +1,82 @@
+//        "development": "Use 'status-dev' with text like 'IN_DEVELOPMENT'",
+//        "complete": "Use 'status-complete' with text like 'COMPLETE'",
+//        "on_hold": "Use 'status-on-hold' with text like 'ON_HOLD'",
+//        "canceled": "Use 'status-canceled' with text like 'CANCELED'"
+
+[
+    {
+        "title": "Evolution Engine Addon",
+        "engineBadge": "GODOT_3.6.2 Plugin",
+        "engineIcon": "fa-solid fa-microchip",
+        "statusText": "on_hold",
+        "statusClass": "status-dev",
+        "bgIcon": "fa-solid fa-gears",
+        "description": "An advanced framework plugin designed to structuralize modular monster-battling mechanics inside the Godot Engine ecosystem. Engineered with highly customizable component nodes for data management, ability architectures, and variable overworld triggers.",
+        "type": "Development Framework / Addon",
+        "architecture": "Event-Driven GDScript",
+        "statusDetail": "WIP Core Optimization",
+        "buttonText": "ACCESS_WORKSPACE",
+        "buttonUrl": "https://vyzlyte.itch.io/evolution-engine",
+        "hidden": false
+    },
+    {
+        "title": "Create your own adventure Addon (CYOA)",
+        "engineBadge": "GODOT_3.6.2 Plugin",
+        "engineIcon": "fa-solid fa-microchip",
+        "statusText": "IN_DEVELOPMENT",
+        "statusClass": "status-dev",
+        "bgIcon": "fa-solid fa-gears",
+        "description": "A framework plugin designed to structuralize modular text style games inside the Godot Engine ecosystem.",
+        "type": "Development Framework / Addon",
+        "architecture": "Node-Driven GDScript",
+        "statusDetail": "85% Complete",
+        "buttonText": "ACCESS_WORKSPACE",
+        "buttonUrl": "https://vyzlyte.itch.io/evolution-engine",
+        "hidden": false
+    },
+    {
+        "title": "Burrowed",
+        "engineBadge": "Game Project",
+        "engineIcon": "fa-solid fa-gamepad",
+        "statusText": "IN_DEVELOPMENT",
+        "statusClass": "status-dev",
+        "bgIcon": "fa-solid fa-layer-group",
+        "description": "Burrowed is a choose your own adventure game. You play as a Nectarine Sprite of one of four species. To win you must survive and not die. Learn the way of your kind.",
+        "type": "Survival",
+        "architecture": "Character Development",
+        "statusDetail": "2% Complete",
+        "buttonText": "DEPLOY_ON_ITCH",
+        "buttonUrl": "https://vyzlyte.itch.io/",
+        "hidden": false
+    },
+    {
+        "title": "Fruitless",
+        "engineBadge": "Game Project",
+        "engineIcon": "fa-solid fa-gamepad",
+        "statusText": "IN_DEVELOPMENT",
+        "statusClass": "status-dev",
+        "bgIcon": "fa-solid fa-layer-group",
+        "description": "\"Fruitless\" is a fantastic title—it instantly sets a mood. Depending on what kind of game you're making, that word can mean a desperate struggle for survival.",
+        "type": "Survival Horror",
+        "architecture": "Character Development",
+        "statusDetail": "15% Complete",
+        "buttonText": "DEPLOY_ON_ITCH",
+        "buttonUrl": "https://vyzlyte.itch.io/",
+        "hidden": false
+    },
+    {
+        "title": "Pixel Art Workspace",
+        "engineBadge": "UTILITY_NODE",
+        "engineIcon": "fa-solid fa-compass-drafting",
+        "statusText": "COMPLETE",
+        "statusClass": "status-complete",
+        "bgIcon": "fa-solid fa-palette",
+        "description": "A lightweight, canvas-based creation interface compiled to establish rapid retro asset generation workflows directly within runtime applications. Complete with custom canvas layouts and optimized save-state handling.",
+        "type": "Creative Software Tool",
+        "architecture": "Modular Dark Environment",
+        "statusDetail": "Operational Layer Integrated",
+        "buttonText": "INITIALIZE_INTERFACE",
+        "buttonUrl": "404.html",
+        "hidden": false
+    }
+]
