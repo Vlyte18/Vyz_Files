@@ -1,0 +1,24 @@
+{
+  "announcements": [
+    {
+      "id": "update-01",
+      "title": "System Update_01",
+      "icon": "fa-solid fa-triangle-exclamation",
+      "content": "System-wide maintenance is complete across the Virtua-Lyte network. The <b>Music Terminal</b> is back online and fully operational, featuring a revamped audio engine, real-time synced lyrics, custom layout controls, and optimized mobile integration.",
+      "datePublished": "2026.11.05",
+      "startDate": "2026-11-05",
+      "endDate": "2026-11-01",
+      "link": "#"
+    },
+    {
+      "id": "update-02",
+      "title": "System Update_02",
+      "icon": "fa-solid fa-circle-check",
+      "content": "Added more pages to the website and corrected disabled links, and page data to ensure accuracy.",
+      "datePublished": "2026-06-07",
+      "startDate": "2026-06-01",
+      "endDate": "2026-12-30",
+      "link": "#"
+    }
+  ]
+}
