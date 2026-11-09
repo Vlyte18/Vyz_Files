@@ -1,0 +1,125 @@
+{
+  "categories": [
+    {
+      "categoryName": "PREMIUM_PUBLICATIONS/",
+      "books": [
+        {
+          "id": "prayer",
+          "fileName": "Prayer of Absolute Fruit.md",
+          "icon": "fa-regular fa-file-lines file-icon",
+          "status": "online",
+          "title": "Prayer Of Absolute Fruit",
+          "size": "SIZE: Letter/Poem",
+          "type": "TYPE: Premium Release",
+          "img": "img/file_000000004dc8722f8f519e5ad8b4e424.png",
+          "alt": "Prayer of Absolute Fruit Book Cover",
+          "synopsis": "A Prayer written by a youth of his discovery of the One and Only true God Christ. With poetic Old English Language and scripture to back up his prayers.",
+          "links": [
+            { "text": "Kindle (Coming Soon)", "url": "#", "external": false },
+            { "text": "Google Play", "url": "https://play.google.com/store/books/details?id=aK7FEQAAQBAJ", "external": true }
+          ]
+        }
+      ]
+    },
+    {
+      "categoryName": "ACTIVE_SERIALS/",
+      "books": [
+        {
+          "id": "root",
+          "fileName": "Root_of_a_Giant_Dream.exe",
+          "icon": "fa-solid fa-bolt exec-icon",
+          "status": "offline",
+          "title": "Root of a Giant Dream",
+          "size": "SIZE: Interactive Serial",
+          "type": "TYPE: Active Release",
+          "img": "img/file_000000004dc8722f8f519e5ad8b4e424.png",
+          "alt": "Root of a Giant Dream Cover",
+          "synopsis": "An exploratory narrative delving into massive scale architectural dreams and digital consciousness landscapes.",
+          "links": [
+            { "text": "Read Online (Coming Soon)", "url": "#", "external": false }
+          ]
+        }
+      ]
+    },
+    {
+      "categoryName": "One Day Series/",
+      "books": [
+        {
+          "id": "oneday",
+          "fileName": "One Day.ser (In Dev)",
+          "icon": "fa-regular fa-file-lines file-icon",
+          "status": "offline",
+          "title": "One Day",
+          "size": "SIZE: Serialized Novel",
+          "type": "TYPE: In Development",
+          "img": "img/file_000000004dc8722f8f519e5ad8b4e424.png",
+          "alt": "One Day Cover",
+          "synopsis": "The foundational narrative of the One Day series, exploring compressed time loops and personal reflection.",
+          "links": [
+            { "text": "Preview (In Dev)", "url": "#", "external": false }
+          ]
+        },
+        {
+          "id": "twoday",
+          "fileName": "Two Day.ser (soon)",
+          "icon": "fa-regular fa-file-lines file-icon",
+          "status": "offline",
+          "title": "Two Day",
+          "size": "SIZE: Serialized Novel",
+          "type": "TYPE: Upcoming",
+          "img": "img/file_000000004dc8722f8f519e5ad8b4e424.png",
+          "alt": "Two Day Cover",
+          "synopsis": "Continuation of the sequence. Expanding the scope of the narrative horizon.",
+          "links": [
+            { "text": "Coming Soon", "url": "#", "external": false }
+          ]
+        },
+        {
+          "id": "futureday",
+          "fileName": "Future Day.ser (soon)",
+          "icon": "fa-regular fa-file-lines file-icon",
+          "status": "offline",
+          "title": "Future Day",
+          "size": "SIZE: Serialized Novel",
+          "type": "TYPE: Upcoming",
+          "img": "img/file_000000004dc8722f8f519e5ad8b4e424.png",
+          "alt": "Future Day Cover",
+          "synopsis": "Looking forward into speculative timelines within the series continuity.",
+          "links": [
+            { "text": "Coming Soon", "url": "#", "external": false }
+          ]
+        },
+        {
+          "id": "finalday",
+          "fileName": "Final Day.ser (soon)",
+          "icon": "fa-regular fa-file-lines file-icon",
+          "status": "offline",
+          "title": "Final Day",
+          "size": "SIZE: Serialized Novel",
+          "type": "TYPE: Upcoming",
+          "img": "img/file_000000004dc8722f8f519e5ad8b4e424.png",
+          "alt": "Final Day Cover",
+          "synopsis": "The impending convergence point of the narrative sequence.",
+          "links": [
+            { "text": "Coming Soon", "url": "#", "external": false }
+          ]
+        },
+        {
+          "id": "judgementday",
+          "fileName": "Judgement Day.ser (soon)",
+          "icon": "fa-regular fa-file-lines file-icon",
+          "status": "offline",
+          "title": "Judgement Day",
+          "size": "SIZE: Serialized Novel",
+          "type": "TYPE: Upcoming",
+          "img": "img/file_000000004dc8722f8f519e5ad8b4e424.png",
+          "alt": "Judgement Day Cover",
+          "synopsis": "The concluding chapter and resolution of the overarching series arc.",
+          "links": [
+            { "text": "Coming Soon", "url": "#", "external": false }
+          ]
+        }
+      ]
+    }
+  ]
+}
