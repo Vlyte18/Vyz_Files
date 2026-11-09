@@ -384,6 +384,129 @@
         "deepScanLink": "#"
     },
     {
+        "identity": "Nyra",
+        "gender": "Female",
+        "classification": "Cat",
+        "birth": "10/09",
+        "age": "Immortal",
+        "height": "6'1\"",
+        "weight": "150 pounds",
+        "image": "https://raw.githubusercontent.com/Vlyte18/Vyz_Files/",
+        "fullBodyImage": "https://raw.githubusercontent.com/Vlyte18/Vyz_Files/",
+        "themeMusic": "",
+        "statusTag": "SECURE_RECORD // LIVE",
+        "statusClass": "status-active",
+        "hiddenBtn": false,
+        "aliases": "Dreep Watcher",
+        "classificationBadge": "ANOMALOUS ENTITY",
+        "occupation": "Dream Keeper",
+        "personality": "Cryptic, Simple, All observant",
+        "morphological": {
+            "skinTone": "Pale skin",
+            "skinTexture": "Satin fluff",
+            "facialShape": "Feline",
+            "eyeProfile": "Whole Black",
+            "features": "Fluffy black fur with white bone shaped patches",
+            "hairAnalysis": "Dark midnight blue, short crop",
+            "bodyType": "Lean, athletic build",
+            "posture": "Mythical and magical posture",
+            "dress": "Nude",
+            "tacticalGear": "A bone staff wit a dream catcher tip",
+            "accessories": "None"
+        },
+        "registration": {
+            "firstName": "Felicity",
+            "middleName": "Soya",
+            "lastName": "Spitz",
+            "nickname": "Nyra"
+        },
+        "chronological": {
+            "existenceStatus": "Active",
+            "dob": "10/09",
+            "pob": "Soviet Russia",
+            "tob": "0600 Hours",
+            "ageOfDeath": "n/A",
+            "dateOfDeath": "06/21",
+            "pod": "Soviet Russia",
+            "tod": "0200 Hours"
+        },
+        "cognitive": {
+            "motivation": "Watching hosts dreams",
+            "moralCore": "Neutral",
+            "selfControl": "Very High",
+            "discouragement": "People who dont sleep",
+            "iqRatio": "600",
+            "psycheClass": "Balanced Mage",
+            "confidenceMatrix": "Stable",
+            "philosophy": "Dream wipe",
+            "corePhobia": "Lucid Dreams",
+            "educationIndex": "Advanced Dream Study"
+        },
+        "physiological": {
+            "bloodType": "Type B+",
+            "dominantHand": "Ambidextrous",
+            "visionRatio": "Enhanced Night Optics",
+            "vulnerabilityVector": "lucid dream users",
+            "reinforcements": "Dream Magnifications",
+            "deviations": "Being trapped in a dream"
+        },
+        "interpersonal": {
+            "sexuality": "Asexual",
+            "orientationVector": "Disassiciation",
+            "statusMatrix": "Single / Focused",
+            "timelineRange": "Sovient union Era",
+            "firstAttachment": "N/A",
+            "primaryPartner": "None",
+            "virginSpecs": "No Data"
+        },
+        "faction": {
+            "name": "Dream Catcher",
+            "position": "Dream observer",
+            "duration": "6 centuries",
+            "motivation": "Field stability",
+            "faithIndex": "Neutral",
+            "deityVector": "Self",
+            "ultimateGoal": "Balance Dreams",
+            "hostileEntities": "Spirit dreams",
+            "totalMembers": "Unknown",
+            "leaderNode": "Classified"
+        },
+        "operational": {
+            "contractRole": "Head Dream Catcher",
+            "realmRange": "Hypnogalgia",
+            "dialects": "Universal",
+            "compensation": "N/A",
+            "domicileZone": "Rem Island",
+            "maintenanceCost": "N/A",
+            "residents": "Self, and servants",
+            "geometry": "Floating Island"
+        },
+        "celestial": {
+            "zodiacVector": "Libra",
+            "resonanceStone": "Opal & Tourmaline",
+            "designatedRole": "Dream Catcher",
+            "alignmentIndex": "Chaotic Good"
+        },
+        "tacticalPerformance": {
+            "traitsPositive": ["Quick Reflexes", "Stealth Maneuvers"],
+            "traitsNegative": ["Light Vulnerability", "Over-cautious"],
+            "skillsPositive": ["Advanced Triage", "Echolocation Tracking"],
+            "skillsNegative": ["Heavy Weaponry", "Direct Combat"],
+            "magicalPositive": ["Shadow Shielding"],
+            "magicalNegative": ["Solar Suppression"],
+            "cognitiveEchoes": ["Phantom Pain Memory"]
+        },
+        "narrative": {
+            "definingMoment": "Was able to see her parents one last time",
+            "childhoodLogs": "Was born in the slums of soviet russia",
+            "criticalHistory": "taken away from parents at a young age",
+            "worstMoments": "Waas grbbed in a lucid dream and the world fell to ruins",
+            "deepBiography": [
+                "COMMING SOON...",
+            ]
+        }
+    },
+    {
         "identity": "Occulus",
         "gender": "Female",
         "birth": "11\\14",
@@ -403,19 +526,6 @@
         "age": "Immortal",
         "height": "5'4\"",
         "weight": "120 pounds",
-        "image": "",
-        "statusTag": "SECURE_RECORD // LIVE",
-        "statusClass": "status-active",
-        "hiddenBtn": true,
-        "deepScanLink": "#"
-    },
-    {
-        "identity": "Oidji",
-        "gender": "Female",
-        "birth": "10/09",
-        "age": "Immortal",
-        "height": "6'1\"",
-        "weight": "150 pounds",
         "image": "",
         "statusTag": "SECURE_RECORD // LIVE",
         "statusClass": "status-active",
