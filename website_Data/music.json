@@ -86,7 +86,7 @@
                 "trackId": "HWM_track_1",
                 "title": "Binding Lies",
                 "artist": "Vyz_Lyte",
-                "coverArt": "img/unnamed.png",
+                "coverArt": "",
                 "audioUrl": "path/to/audio/binding_lies.mp3",
                 "lyrics": "Transmitted lyrics for Binding Lies..."
             }
