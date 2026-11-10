@@ -78,6 +78,45 @@
         ]
     },
     {
+        "albumTitle": "// Christian Music",
+        "sectionId": "album-heart-wrench",
+        "marginTop": "40px",
+        "tracks": [
+            {
+                "trackId": "CM_track_1",
+                "title": "Drop",
+                "artist": "Vyz_Lyte",
+                "coverArt": "",
+                "audioUrl": "path/to/audio/Drop%20(1).mp3",
+                "lyrics": "Transmitted lyrics for Drop..."
+            },
+            {
+                "trackId": "HWM_track_2",
+                "title": "Hollowed Christmas",
+                "artist": "Vyz_Lyte",
+                "coverArt": "",
+                "audioUrl": "path/to/audio/A%20hollow%20Christmas%20%20(1).mp3",
+                "lyrics": "Transmitted lyrics for Hollowed Christmas..."
+            },
+            {
+                "trackId": "HWM_track_3",
+                "title": "Black Tendril",
+                "artist": "Vyz_Lyte",
+                "coverArt": "",
+                "audioUrl": "path/to/audio/Black%20tendril.mp3",
+                "lyrics": "Transmitted lyrics for Black Tendril..."
+            },
+            {
+                "trackId": "HWM_track_4",
+                "title": "Black Light",
+                "artist": "Vyz_Lyte",
+                "coverArt": "",
+                "audioUrl": "path/to/audio/Blacklight%20.mp3",
+                "lyrics": "Transmitted lyrics for Black Light..."
+            },
+        ]
+    },
+    {
         "albumTitle": "// Heart Wrench Music",
         "sectionId": "album-heart-wrench",
         "marginTop": "40px",
@@ -89,7 +128,54 @@
                 "coverArt": "",
                 "audioUrl": "path/to/audio/binding_lies.mp3",
                 "lyrics": "Transmitted lyrics for Binding Lies..."
-            }
+            },
+            {
+                "trackId": "HWM_track_2",
+                "title": "Hollowed Christmas",
+                "artist": "Vyz_Lyte",
+                "coverArt": "",
+                "audioUrl": "path/to/audio/A%20hollow%20Christmas%20%20(1).mp3",
+                "lyrics": "Transmitted lyrics for Hollowed Christmas..."
+            },
+            {
+                "trackId": "HWM_track_3",
+                "title": "Black Tendril",
+                "artist": "Vyz_Lyte",
+                "coverArt": "",
+                "audioUrl": "path/to/audio/Black%20tendril.mp3",
+                "lyrics": "Transmitted lyrics for Black Tendril..."
+            },
+            {
+                "trackId": "HWM_track_4",
+                "title": "Black Light",
+                "artist": "Vyz_Lyte",
+                "coverArt": "",
+                "audioUrl": "path/to/audio/Blacklight%20.mp3",
+                "lyrics": "Transmitted lyrics for Black Light..."
+            },
+            {
+                "trackId": "HWM_track_4",
+                "title": "Eternal Rest",
+                "artist": "Vyz_Lyte",
+                "coverArt": "",
+                "audioUrl": "path/to/audio/Eternal%20rest.mp3",
+                "lyrics": "Transmitted lyrics for Black Light..."
+            },
+        ]
+    },
+    {
+        "albumTitle": "// Smut Music",
+        "sectionId": "album-heart-wrench",
+        "marginTop": "40px",
+        "tracks": [
+            {
+                "trackId": "S&M_track_1",
+                "title": "Daddy's Girl",
+                "artist": "Vyz_Lyte",
+                "coverArt": "",
+                "audioUrl": "path/to/audio/Daddy%20knows.mp3",
+                "lyrics": "Transmitted lyrics for Daddy's Girl..."
+            },
         ]
     }
 ]
