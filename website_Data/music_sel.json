@@ -88,5 +88,86 @@
         "format": "audio/mpeg",
         "thumb": "",
         "lyricsFile": ""
+    },
+    "CM_track_1": {
+        "title": "Drop",
+        "meta": "CODEC: MP3 Core | BITRATE: 320kbps | REGION: Christian Music",
+        "desc": "Transmitted audio archive node for Drop.",
+        "file": "https://raw.githubusercontent.com/Vlyte18/Vyz_Files/f02087966f775f176efdfae1a44a9e47add2069a/music/Christian/Drop%20(1).mp3",
+        "format": "audio/mpeg",
+        "thumb": "",
+        "lyricsFile": ""
+    },
+    "CM_track_2": {
+        "title": "Hollowed Christmas",
+        "meta": "CODEC: MP3 Core | BITRATE: 320kbps | REGION: Christian Music",
+        "desc": "Transmitted audio archive node for Hollowed Christmas.",
+        "file": "https://raw.githubusercontent.com/Vlyte18/Vyz_Files/f02087966f775f176efdfae1a44a9e47add2069a/music/Christian/A%20hollow%20Christmas%20%20(1).mp3",
+        "format": "audio/mpeg",
+        "thumb": "",
+        "lyricsFile": ""
+    },
+    "CM_track_3": {
+        "title": "Black Tendril",
+        "meta": "CODEC: MP3 Core | BITRATE: 320kbps | REGION: Christian Music",
+        "desc": "Transmitted audio archive node for Black Tendril.",
+        "file": "https://raw.githubusercontent.com/Vlyte18/Vyz_Files/f02087966f775f176efdfae1a44a9e47add2069a/music/Christian/Black%20tendril.mp3",
+        "format": "audio/mpeg",
+        "thumb": "",
+        "lyricsFile": ""
+    },
+    "CM_track_4": {
+        "title": "Black Light",
+        "meta": "CODEC: MP3 Core | BITRATE: 320kbps | REGION: Christian Music",
+        "desc": "Transmitted audio archive node for Black Light.",
+        "file": "https://raw.githubusercontent.com/Vlyte18/Vyz_Files/f02087966f775f176efdfae1a44a9e47add2069a/music/Christian/Blacklight%20.mp3",
+        "format": "audio/mpeg",
+        "thumb": "",
+        "lyricsFile": ""
+    },
+    "HWM_track_2": {
+        "title": "Hollowed Christmas",
+        "meta": "CODEC: MP3 Core | BITRATE: 320kbps | REGION: Heart Wrench Music",
+        "desc": "Transmitted audio archive node for Hollowed Christmas.",
+        "file": "https://raw.githubusercontent.com/Vlyte18/Vyz_Files/f02087966f775f176efdfae1a44a9e47add2069a/music/HeartWrench/A%20hollow%20Christmas%20%20(1).mp3",
+        "format": "audio/mpeg",
+        "thumb": "",
+        "lyricsFile": ""
+    },
+    "HWM_track_3": {
+        "title": "Black Tendril",
+        "meta": "CODEC: MP3 Core | BITRATE: 320kbps | REGION: Heart Wrench Music",
+        "desc": "Transmitted audio archive node for Black Tendril.",
+        "file": "https://raw.githubusercontent.com/Vlyte18/Vyz_Files/f02087966f775f176efdfae1a44a9e47add2069a/music/HeartWrench/Black%20tendril.mp3",
+        "format": "audio/mpeg",
+        "thumb": "",
+        "lyricsFile": ""
+    },
+    "HWM_track_4": {
+        "title": "Black Light",
+        "meta": "CODEC: MP3 Core | BITRATE: 320kbps | REGION: Heart Wrench Music",
+        "desc": "Transmitted audio archive node for Black Light.",
+        "file": "https://raw.githubusercontent.com/Vlyte18/Vyz_Files/f02087966f775f176efdfae1a44a9e47add2069a/music/HeartWrench/Blacklight%20.mp3",
+        "format": "audio/mpeg",
+        "thumb": "",
+        "lyricsFile": ""
+    },
+    "HWM_track_5": {
+        "title": "Eternal Rest",
+        "meta": "CODEC: MP3 Core | BITRATE: 320kbps | REGION: Heart Wrench Music",
+        "desc": "Transmitted audio archive node for Eternal Rest.",
+        "file": "https://raw.githubusercontent.com/Vlyte18/Vyz_Files/f02087966f775f176efdfae1a44a9e47add2069a/music/HeartWrench/Eternal%20rest.mp3",
+        "format": "audio/mpeg",
+        "thumb": "",
+        "lyricsFile": ""
+    },
+    "SM_track_1": {
+        "title": "Daddy's Girl",
+        "meta": "CODEC: MP3 Core | BITRATE: 320kbps | REGION: Smut Music",
+        "desc": "Transmitted audio archive node for Daddy's Girl.",
+        "file": "https://raw.githubusercontent.com/Vlyte18/Vyz_Files/f02087966f775f176efdfae1a44a9e47add2069a/music/Smut/Daddy%20knows.mp3",
+        "format": "audio/mpeg",
+        "thumb": "",
+        "lyricsFile": ""
     }
 }
