@@ -2,7 +2,7 @@
   "announcements": [
     {
       "id": "update-01",
-      "title": "System Update_01",
+      "title": "Major Bug Fix",
       "icon": "fa-solid fa-triangle-exclamation",
       "content": "Fixed a bug that would prevent pages from loading",
       "datePublished": "2026.11.20",
@@ -12,12 +12,12 @@
     },
     {
       "id": "update-02",
-      "title": "System Update_02",
+      "title": "Added more content!",
       "icon": "fa-solid fa-circle-check",
-      "content": "Added more pages to the website and corrected disabled links, and page data to ensure accuracy.",
-      "datePublished": "2026-06-07",
-      "startDate": "2026-06-01",
-      "endDate": "2026-11-05",
+      "content": "Added more pages to the website and corrected disabled links, and page data to ensure accuracy. Added more music and fixed lyric errors",
+      "datePublished": "2026-06-20",
+      "startDate": "2026-06-20",
+      "endDate": "2026-11-22",
       "link": "#"
     }
   ]
