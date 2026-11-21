@@ -1,7 +1,7 @@
 {
   "announcements": [
     {
-      "id": "Major update",
+      "id": "update-01",
       "title": "System Update_01",
       "icon": "fa-solid fa-triangle-exclamation",
       "content": "Fixed a bug that would prevent pages from loading",
