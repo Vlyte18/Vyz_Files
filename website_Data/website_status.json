@@ -1,19 +1,49 @@
 {
     "redirectUrl": "under_construction.html",
     "pages": {
-        "shop.html": {
-            "underConstruction": true
-        },
-        "blog.html": {
+        "404.html": {
             "underConstruction": false
         },
         "about.html": {
             "underConstruction": false
         },
-        "starter.html": {
+        "blog.html": {
+            "underConstruction": false
+        },
+        "donate.html": {
+            "underConstruction": false
+        },
+        "gallery.html": {
+            "underConstruction": false
+        },
+        "gaming.html": {
+            "underConstruction": false
+        },
+        "index.html": {
+            "underConstruction": false
+        },
+        "library.html": {
             "underConstruction": false
         },
         "limits.html": {
+            "underConstruction": false
+        },
+        "music.html": {
+            "underConstruction": false
+        },
+        "oc.html": {
+            "underConstruction": false
+        },
+        "oc_data.html": {
+            "underConstruction": false
+        },
+        "roleplay.html": {
+            "underConstruction": false
+        },
+        "shop.html": {
+            "underConstruction": true
+        },
+        "starter.html": {
             "underConstruction": false
         }
     }
