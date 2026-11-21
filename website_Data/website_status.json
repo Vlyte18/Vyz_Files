@@ -1,0 +1,20 @@
+{
+    "redirectUrl": "under_construction.html",
+    "pages": {
+        "shop.html": {
+            "underConstruction": true
+        },
+        "blog.html": {
+            "underConstruction": false
+        },
+        "about.html": {
+            "underConstruction": false
+        },
+        "starter.html": {
+            "underConstruction": false
+        },
+        "limits.html": {
+            "underConstruction": false
+        }
+    }
+}
