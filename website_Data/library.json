@@ -26,7 +26,7 @@
       "books": [
         {
           "id": "root",
-          "fileName": "Root_of_a_Giant_Dream.exe",
+          "fileName": "Deleware.exe",
           "icon": "fa-solid fa-bolt exec-icon",
           "status": "offline",
           "title": "Root of a Giant Dream",
@@ -38,7 +38,582 @@
           "links": [
             { "text": "Read Online (Coming Soon)", "url": "#", "external": false }
           ]
-        }
+        },
+        {
+          "id": "root",
+          "fileName": "Enticed.exe",
+          "icon": "fa-solid fa-bolt exec-icon",
+          "status": "offline",
+          "title": "Root of a Giant Dream",
+          "size": "SIZE: Interactive Serial",
+          "type": "TYPE: Active Release",
+          "img": "img/file_000000004dc8722f8f519e5ad8b4e424.png",
+          "alt": "Root of a Giant Dream Cover",
+          "synopsis": "An exploratory narrative delving into massive scale architectural dreams and digital consciousness landscapes.",
+          "links": [
+            { "text": "Read Online (Coming Soon)", "url": "#", "external": false }
+          ]
+        },
+        {
+          "id": "root",
+          "fileName": "Arcane.exe",
+          "icon": "fa-solid fa-bolt exec-icon",
+          "status": "offline",
+          "title": "Root of a Giant Dream",
+          "size": "SIZE: Interactive Serial",
+          "type": "TYPE: Active Release",
+          "img": "img/file_000000004dc8722f8f519e5ad8b4e424.png",
+          "alt": "Root of a Giant Dream Cover",
+          "synopsis": "An exploratory narrative delving into massive scale architectural dreams and digital consciousness landscapes.",
+          "links": [
+            { "text": "Read Online (Coming Soon)", "url": "#", "external": false }
+          ]
+        },
+        {
+          "id": "root",
+          "fileName": "Arcane.exe",
+          "icon": "fa-solid fa-bolt exec-icon",
+          "status": "offline",
+          "title": "Root of a Giant Dream",
+          "size": "SIZE: Interactive Serial",
+          "type": "TYPE: Active Release",
+          "img": "img/file_000000004dc8722f8f519e5ad8b4e424.png",
+          "alt": "Root of a Giant Dream Cover",
+          "synopsis": "An exploratory narrative delving into massive scale architectural dreams and digital consciousness landscapes.",
+          "links": [
+            { "text": "Read Online (Coming Soon)", "url": "#", "external": false }
+          ]
+        },
+        {
+          "id": "root",
+          "fileName": "Parkore Bladers.exe",
+          "icon": "fa-solid fa-bolt exec-icon",
+          "status": "offline",
+          "title": "Root of a Giant Dream",
+          "size": "SIZE: Interactive Serial",
+          "type": "TYPE: Active Release",
+          "img": "img/file_000000004dc8722f8f519e5ad8b4e424.png",
+          "alt": "Root of a Giant Dream Cover",
+          "synopsis": "An exploratory narrative delving into massive scale architectural dreams and digital consciousness landscapes.",
+          "links": [
+            { "text": "Read Online (Coming Soon)", "url": "#", "external": false }
+          ]
+        },
+        {
+          "id": "root",
+          "fileName": "Lost.exe",
+          "icon": "fa-solid fa-bolt exec-icon",
+          "status": "offline",
+          "title": "Root of a Giant Dream",
+          "size": "SIZE: Interactive Serial",
+          "type": "TYPE: Active Release",
+          "img": "img/file_000000004dc8722f8f519e5ad8b4e424.png",
+          "alt": "Root of a Giant Dream Cover",
+          "synopsis": "An exploratory narrative delving into massive scale architectural dreams and digital consciousness landscapes.",
+          "links": [
+            { "text": "Read Online (Coming Soon)", "url": "#", "external": false }
+          ]
+        },
+        {
+          "id": "root",
+          "fileName": "Cannibal.exe",
+          "icon": "fa-solid fa-bolt exec-icon",
+          "status": "offline",
+          "title": "Root of a Giant Dream",
+          "size": "SIZE: Interactive Serial",
+          "type": "TYPE: Active Release",
+          "img": "img/file_000000004dc8722f8f519e5ad8b4e424.png",
+          "alt": "Root of a Giant Dream Cover",
+          "synopsis": "An exploratory narrative delving into massive scale architectural dreams and digital consciousness landscapes.",
+          "links": [
+            { "text": "Read Online (Coming Soon)", "url": "#", "external": false }
+          ]
+        },
+        {
+          "id": "root",
+          "fileName": "Feral Instincts.exe",
+          "icon": "fa-solid fa-bolt exec-icon",
+          "status": "offline",
+          "title": "Root of a Giant Dream",
+          "size": "SIZE: Interactive Serial",
+          "type": "TYPE: Active Release",
+          "img": "img/file_000000004dc8722f8f519e5ad8b4e424.png",
+          "alt": "Root of a Giant Dream Cover",
+          "synopsis": "An exploratory narrative delving into massive scale architectural dreams and digital consciousness landscapes.",
+          "links": [
+            { "text": "Read Online (Coming Soon)", "url": "#", "external": false }
+          ]
+        },
+        {
+          "id": "root",
+          "fileName": "All You Can.exe",
+          "icon": "fa-solid fa-bolt exec-icon",
+          "status": "offline",
+          "title": "Root of a Giant Dream",
+          "size": "SIZE: Interactive Serial",
+          "type": "TYPE: Active Release",
+          "img": "img/file_000000004dc8722f8f519e5ad8b4e424.png",
+          "alt": "Root of a Giant Dream Cover",
+          "synopsis": "An exploratory narrative delving into massive scale architectural dreams and digital consciousness landscapes.",
+          "links": [
+            { "text": "Read Online (Coming Soon)", "url": "#", "external": false }
+          ]
+        },
+        {
+          "id": "root",
+          "fileName": "Dead School.exe",
+          "icon": "fa-solid fa-bolt exec-icon",
+          "status": "offline",
+          "title": "Root of a Giant Dream",
+          "size": "SIZE: Interactive Serial",
+          "type": "TYPE: Active Release",
+          "img": "img/file_000000004dc8722f8f519e5ad8b4e424.png",
+          "alt": "Root of a Giant Dream Cover",
+          "synopsis": "An exploratory narrative delving into massive scale architectural dreams and digital consciousness landscapes.",
+          "links": [
+            { "text": "Read Online (Coming Soon)", "url": "#", "external": false }
+          ]
+        },
+        {
+          "id": "root",
+          "fileName": "A Dragons Heart.exe",
+          "icon": "fa-solid fa-bolt exec-icon",
+          "status": "offline",
+          "title": "Root of a Giant Dream",
+          "size": "SIZE: Interactive Serial",
+          "type": "TYPE: Active Release",
+          "img": "img/file_000000004dc8722f8f519e5ad8b4e424.png",
+          "alt": "Root of a Giant Dream Cover",
+          "synopsis": "An exploratory narrative delving into massive scale architectural dreams and digital consciousness landscapes.",
+          "links": [
+            { "text": "Read Online (Coming Soon)", "url": "#", "external": false }
+          ]
+        },
+        {
+          "id": "root",
+          "fileName": "Tragedy In Graves.exe",
+          "icon": "fa-solid fa-bolt exec-icon",
+          "status": "offline",
+          "title": "Root of a Giant Dream",
+          "size": "SIZE: Interactive Serial",
+          "type": "TYPE: Active Release",
+          "img": "img/file_000000004dc8722f8f519e5ad8b4e424.png",
+          "alt": "Root of a Giant Dream Cover",
+          "synopsis": "An exploratory narrative delving into massive scale architectural dreams and digital consciousness landscapes.",
+          "links": [
+            { "text": "Read Online (Coming Soon)", "url": "#", "external": false }
+          ]
+        },
+        {
+          "id": "root",
+          "fileName": "Obsession.exe",
+          "icon": "fa-solid fa-bolt exec-icon",
+          "status": "offline",
+          "title": "Root of a Giant Dream",
+          "size": "SIZE: Interactive Serial",
+          "type": "TYPE: Active Release",
+          "img": "img/file_000000004dc8722f8f519e5ad8b4e424.png",
+          "alt": "Root of a Giant Dream Cover",
+          "synopsis": "An exploratory narrative delving into massive scale architectural dreams and digital consciousness landscapes.",
+          "links": [
+            { "text": "Read Online (Coming Soon)", "url": "#", "external": false }
+          ]
+        },
+        {
+          "id": "root",
+          "fileName": "A Scary Story.exe",
+          "icon": "fa-solid fa-bolt exec-icon",
+          "status": "offline",
+          "title": "Root of a Giant Dream",
+          "size": "SIZE: Interactive Serial",
+          "type": "TYPE: Active Release",
+          "img": "img/file_000000004dc8722f8f519e5ad8b4e424.png",
+          "alt": "Root of a Giant Dream Cover",
+          "synopsis": "An exploratory narrative delving into massive scale architectural dreams and digital consciousness landscapes.",
+          "links": [
+            { "text": "Read Online (Coming Soon)", "url": "#", "external": false }
+          ]
+        },
+        {
+          "id": "root",
+          "fileName": "Inside Me.exe",
+          "icon": "fa-solid fa-bolt exec-icon",
+          "status": "offline",
+          "title": "Root of a Giant Dream",
+          "size": "SIZE: Interactive Serial",
+          "type": "TYPE: Active Release",
+          "img": "img/file_000000004dc8722f8f519e5ad8b4e424.png",
+          "alt": "Root of a Giant Dream Cover",
+          "synopsis": "An exploratory narrative delving into massive scale architectural dreams and digital consciousness landscapes.",
+          "links": [
+            { "text": "Read Online (Coming Soon)", "url": "#", "external": false }
+          ]
+        },
+        {
+          "id": "root",
+          "fileName": "Do Not Be Afraid.exe",
+          "icon": "fa-solid fa-bolt exec-icon",
+          "status": "offline",
+          "title": "Root of a Giant Dream",
+          "size": "SIZE: Interactive Serial",
+          "type": "TYPE: Active Release",
+          "img": "img/file_000000004dc8722f8f519e5ad8b4e424.png",
+          "alt": "Root of a Giant Dream Cover",
+          "synopsis": "An exploratory narrative delving into massive scale architectural dreams and digital consciousness landscapes.",
+          "links": [
+            { "text": "Read Online (Coming Soon)", "url": "#", "external": false }
+          ]
+        },
+        {
+          "id": "root",
+          "fileName": "Strip The Pilot.exe",
+          "icon": "fa-solid fa-bolt exec-icon",
+          "status": "offline",
+          "title": "Root of a Giant Dream",
+          "size": "SIZE: Interactive Serial",
+          "type": "TYPE: Active Release",
+          "img": "img/file_000000004dc8722f8f519e5ad8b4e424.png",
+          "alt": "Root of a Giant Dream Cover",
+          "synopsis": "An exploratory narrative delving into massive scale architectural dreams and digital consciousness landscapes.",
+          "links": [
+            { "text": "Read Online (Coming Soon)", "url": "#", "external": false }
+          ]
+        },
+        {
+          "id": "root",
+          "fileName": "Fade.exe",
+          "icon": "fa-solid fa-bolt exec-icon",
+          "status": "offline",
+          "title": "Root of a Giant Dream",
+          "size": "SIZE: Interactive Serial",
+          "type": "TYPE: Active Release",
+          "img": "img/file_000000004dc8722f8f519e5ad8b4e424.png",
+          "alt": "Root of a Giant Dream Cover",
+          "synopsis": "An exploratory narrative delving into massive scale architectural dreams and digital consciousness landscapes.",
+          "links": [
+            { "text": "Read Online (Coming Soon)", "url": "#", "external": false }
+          ]
+        },
+        {
+          "id": "root",
+          "fileName": "Juggernaught.exe",
+          "icon": "fa-solid fa-bolt exec-icon",
+          "status": "offline",
+          "title": "Root of a Giant Dream",
+          "size": "SIZE: Interactive Serial",
+          "type": "TYPE: Active Release",
+          "img": "img/file_000000004dc8722f8f519e5ad8b4e424.png",
+          "alt": "Root of a Giant Dream Cover",
+          "synopsis": "An exploratory narrative delving into massive scale architectural dreams and digital consciousness landscapes.",
+          "links": [
+            { "text": "Read Online (Coming Soon)", "url": "#", "external": false }
+          ]
+        },
+        {
+          "id": "root",
+          "fileName": "Furries Guide How To Make A Fursuit.exe",
+          "icon": "fa-solid fa-bolt exec-icon",
+          "status": "offline",
+          "title": "Root of a Giant Dream",
+          "size": "SIZE: Interactive Serial",
+          "type": "TYPE: Active Release",
+          "img": "img/file_000000004dc8722f8f519e5ad8b4e424.png",
+          "alt": "Root of a Giant Dream Cover",
+          "synopsis": "An exploratory narrative delving into massive scale architectural dreams and digital consciousness landscapes.",
+          "links": [
+            { "text": "Read Online (Coming Soon)", "url": "#", "external": false }
+          ]
+        },
+      ]
+    },
+    {
+      "categoryName": "FANFICTIONS/",
+      "books": [
+        {
+          "id": "root",
+          "fileName": "RWBY Fallen Blaze.exe",
+          "icon": "fa-solid fa-bolt exec-icon",
+          "status": "offline",
+          "title": "Root of a Giant Dream",
+          "size": "SIZE: Interactive Serial",
+          "type": "TYPE: Active Release",
+          "img": "img/file_000000004dc8722f8f519e5ad8b4e424.png",
+          "alt": "Root of a Giant Dream Cover",
+          "synopsis": "An exploratory narrative delving into massive scale architectural dreams and digital consciousness landscapes.",
+          "links": [
+            { "text": "Read Online (Coming Soon)", "url": "#", "external": false }
+          ]
+        },
+        {
+          "id": "root",
+          "fileName": "Prototype Bloodline Genetics.exe",
+          "icon": "fa-solid fa-bolt exec-icon",
+          "status": "offline",
+          "title": "Root of a Giant Dream",
+          "size": "SIZE: Interactive Serial",
+          "type": "TYPE: Active Release",
+          "img": "img/file_000000004dc8722f8f519e5ad8b4e424.png",
+          "alt": "Root of a Giant Dream Cover",
+          "synopsis": "An exploratory narrative delving into massive scale architectural dreams and digital consciousness landscapes.",
+          "links": [
+            { "text": "Read Online (Coming Soon)", "url": "#", "external": false }
+          ]
+        },
+        {
+          "id": "root",
+          "fileName": "Life Of An Experimental Crossbreed.exe",
+          "icon": "fa-solid fa-bolt exec-icon",
+          "status": "offline",
+          "title": "Root of a Giant Dream",
+          "size": "SIZE: Interactive Serial",
+          "type": "TYPE: Active Release",
+          "img": "img/file_000000004dc8722f8f519e5ad8b4e424.png",
+          "alt": "Root of a Giant Dream Cover",
+          "synopsis": "An exploratory narrative delving into massive scale architectural dreams and digital consciousness landscapes.",
+          "links": [
+            { "text": "Read Online (Coming Soon)", "url": "#", "external": false }
+          ]
+        },
+        {
+          "id": "root",
+          "fileName": "Masseffect Into The Wolves.exe",
+          "icon": "fa-solid fa-bolt exec-icon",
+          "status": "offline",
+          "title": "Root of a Giant Dream",
+          "size": "SIZE: Interactive Serial",
+          "type": "TYPE: Active Release",
+          "img": "img/file_000000004dc8722f8f519e5ad8b4e424.png",
+          "alt": "Root of a Giant Dream Cover",
+          "synopsis": "An exploratory narrative delving into massive scale architectural dreams and digital consciousness landscapes.",
+          "links": [
+            { "text": "Read Online (Coming Soon)", "url": "#", "external": false }
+          ]
+        },
+        {
+          "id": "root",
+          "fileName": "Five Weeks At Fazzbears.exe",
+          "icon": "fa-solid fa-bolt exec-icon",
+          "status": "offline",
+          "title": "Root of a Giant Dream",
+          "size": "SIZE: Interactive Serial",
+          "type": "TYPE: Active Release",
+          "img": "img/file_000000004dc8722f8f519e5ad8b4e424.png",
+          "alt": "Root of a Giant Dream Cover",
+          "synopsis": "An exploratory narrative delving into massive scale architectural dreams and digital consciousness landscapes.",
+          "links": [
+            { "text": "Read Online (Coming Soon)", "url": "#", "external": false }
+          ]
+        },
+        {
+          "id": "root",
+          "fileName": "One Day at Freddys.exe",
+          "icon": "fa-solid fa-bolt exec-icon",
+          "status": "offline",
+          "title": "Root of a Giant Dream",
+          "size": "SIZE: Interactive Serial",
+          "type": "TYPE: Active Release",
+          "img": "img/file_000000004dc8722f8f519e5ad8b4e424.png",
+          "alt": "Root of a Giant Dream Cover",
+          "synopsis": "An exploratory narrative delving into massive scale architectural dreams and digital consciousness landscapes.",
+          "links": [
+            { "text": "Read Online (Coming Soon)", "url": "#", "external": false }
+          ]
+        },
+        {
+          "id": "root",
+          "fileName": "The Fallout Diaries.exe",
+          "icon": "fa-solid fa-bolt exec-icon",
+          "status": "offline",
+          "title": "Root of a Giant Dream",
+          "size": "SIZE: Interactive Serial",
+          "type": "TYPE: Active Release",
+          "img": "img/file_000000004dc8722f8f519e5ad8b4e424.png",
+          "alt": "Root of a Giant Dream Cover",
+          "synopsis": "An exploratory narrative delving into massive scale architectural dreams and digital consciousness landscapes.",
+          "links": [
+            { "text": "Read Online (Coming Soon)", "url": "#", "external": false }
+          ]
+        },
+        {
+          "id": "root",
+          "fileName": "Attack On Titan Feral Titan.exe",
+          "icon": "fa-solid fa-bolt exec-icon",
+          "status": "offline",
+          "title": "Root of a Giant Dream",
+          "size": "SIZE: Interactive Serial",
+          "type": "TYPE: Active Release",
+          "img": "img/file_000000004dc8722f8f519e5ad8b4e424.png",
+          "alt": "Root of a Giant Dream Cover",
+          "synopsis": "An exploratory narrative delving into massive scale architectural dreams and digital consciousness landscapes.",
+          "links": [
+            { "text": "Read Online (Coming Soon)", "url": "#", "external": false }
+          ]
+        },
+        {
+          "id": "root",
+          "fileName": "Avatar Awa Wishes.exe",
+          "icon": "fa-solid fa-bolt exec-icon",
+          "status": "offline",
+          "title": "Root of a Giant Dream",
+          "size": "SIZE: Interactive Serial",
+          "type": "TYPE: Active Release",
+          "img": "img/file_000000004dc8722f8f519e5ad8b4e424.png",
+          "alt": "Root of a Giant Dream Cover",
+          "synopsis": "An exploratory narrative delving into massive scale architectural dreams and digital consciousness landscapes.",
+          "links": [
+            { "text": "Read Online (Coming Soon)", "url": "#", "external": false }
+          ]
+        },
+        {
+          "id": "root",
+          "fileName": "AnimeCraft.exe",
+          "icon": "fa-solid fa-bolt exec-icon",
+          "status": "offline",
+          "title": "Root of a Giant Dream",
+          "size": "SIZE: Interactive Serial",
+          "type": "TYPE: Active Release",
+          "img": "img/file_000000004dc8722f8f519e5ad8b4e424.png",
+          "alt": "Root of a Giant Dream Cover",
+          "synopsis": "An exploratory narrative delving into massive scale architectural dreams and digital consciousness landscapes.",
+          "links": [
+            { "text": "Read Online (Coming Soon)", "url": "#", "external": false }
+          ]
+        },
+        {
+          "id": "root",
+          "fileName": "Transformers Exotic Drift.exe",
+          "icon": "fa-solid fa-bolt exec-icon",
+          "status": "offline",
+          "title": "Root of a Giant Dream",
+          "size": "SIZE: Interactive Serial",
+          "type": "TYPE: Active Release",
+          "img": "img/file_000000004dc8722f8f519e5ad8b4e424.png",
+          "alt": "Root of a Giant Dream Cover",
+          "synopsis": "An exploratory narrative delving into massive scale architectural dreams and digital consciousness landscapes.",
+          "links": [
+            { "text": "Read Online (Coming Soon)", "url": "#", "external": false }
+          ]
+        },
+        {
+          "id": "root",
+          "fileName": "Five Nights In Springs.exe",
+          "icon": "fa-solid fa-bolt exec-icon",
+          "status": "offline",
+          "title": "Root of a Giant Dream",
+          "size": "SIZE: Interactive Serial",
+          "type": "TYPE: Active Release",
+          "img": "img/file_000000004dc8722f8f519e5ad8b4e424.png",
+          "alt": "Root of a Giant Dream Cover",
+          "synopsis": "An exploratory narrative delving into massive scale architectural dreams and digital consciousness landscapes.",
+          "links": [
+            { "text": "Read Online (Coming Soon)", "url": "#", "external": false }
+          ]
+        },
+        {
+          "id": "root",
+          "fileName": "Naruto Dont Confess.exe",
+          "icon": "fa-solid fa-bolt exec-icon",
+          "status": "offline",
+          "title": "Root of a Giant Dream",
+          "size": "SIZE: Interactive Serial",
+          "type": "TYPE: Active Release",
+          "img": "img/file_000000004dc8722f8f519e5ad8b4e424.png",
+          "alt": "Root of a Giant Dream Cover",
+          "synopsis": "An exploratory narrative delving into massive scale architectural dreams and digital consciousness landscapes.",
+          "links": [
+            { "text": "Read Online (Coming Soon)", "url": "#", "external": false }
+          ]
+        },
+        {
+          "id": "root",
+          "fileName": "Naruto The No tails.exe",
+          "icon": "fa-solid fa-bolt exec-icon",
+          "status": "offline",
+          "title": "Root of a Giant Dream",
+          "size": "SIZE: Interactive Serial",
+          "type": "TYPE: Active Release",
+          "img": "img/file_000000004dc8722f8f519e5ad8b4e424.png",
+          "alt": "Root of a Giant Dream Cover",
+          "synopsis": "An exploratory narrative delving into massive scale architectural dreams and digital consciousness landscapes.",
+          "links": [
+            { "text": "Read Online (Coming Soon)", "url": "#", "external": false }
+          ]
+        },
+        {
+          "id": "root",
+          "fileName": "Mortal Kombat Ice and Heat.exe",
+          "icon": "fa-solid fa-bolt exec-icon",
+          "status": "offline",
+          "title": "Root of a Giant Dream",
+          "size": "SIZE: Interactive Serial",
+          "type": "TYPE: Active Release",
+          "img": "img/file_000000004dc8722f8f519e5ad8b4e424.png",
+          "alt": "Root of a Giant Dream Cover",
+          "synopsis": "An exploratory narrative delving into massive scale architectural dreams and digital consciousness landscapes.",
+          "links": [
+            { "text": "Read Online (Coming Soon)", "url": "#", "external": false }
+          ]
+        },
+        {
+          "id": "root",
+          "fileName": "Silent Hill Pyramid Head Alpha.exe",
+          "icon": "fa-solid fa-bolt exec-icon",
+          "status": "offline",
+          "title": "Root of a Giant Dream",
+          "size": "SIZE: Interactive Serial",
+          "type": "TYPE: Active Release",
+          "img": "img/file_000000004dc8722f8f519e5ad8b4e424.png",
+          "alt": "Root of a Giant Dream Cover",
+          "synopsis": "An exploratory narrative delving into massive scale architectural dreams and digital consciousness landscapes.",
+          "links": [
+            { "text": "Read Online (Coming Soon)", "url": "#", "external": false }
+          ]
+        },
+        {
+          "id": "root",
+          "fileName": "Hyperdimension New Core.exe",
+          "icon": "fa-solid fa-bolt exec-icon",
+          "status": "offline",
+          "title": "Root of a Giant Dream",
+          "size": "SIZE: Interactive Serial",
+          "type": "TYPE: Active Release",
+          "img": "img/file_000000004dc8722f8f519e5ad8b4e424.png",
+          "alt": "Root of a Giant Dream Cover",
+          "synopsis": "An exploratory narrative delving into massive scale architectural dreams and digital consciousness landscapes.",
+          "links": [
+            { "text": "Read Online (Coming Soon)", "url": "#", "external": false }
+          ]
+        },
+        {
+          "id": "root",
+          "fileName": "Mirrors Edge Black Legacy.exe",
+          "icon": "fa-solid fa-bolt exec-icon",
+          "status": "offline",
+          "title": "Root of a Giant Dream",
+          "size": "SIZE: Interactive Serial",
+          "type": "TYPE: Active Release",
+          "img": "img/file_000000004dc8722f8f519e5ad8b4e424.png",
+          "alt": "Root of a Giant Dream Cover",
+          "synopsis": "An exploratory narrative delving into massive scale architectural dreams and digital consciousness landscapes.",
+          "links": [
+            { "text": "Read Online (Coming Soon)", "url": "#", "external": false }
+          ]
+        },
+        {
+          "id": "root",
+          "fileName": "Saints Row Vacation.exe",
+          "icon": "fa-solid fa-bolt exec-icon",
+          "status": "offline",
+          "title": "Root of a Giant Dream",
+          "size": "SIZE: Interactive Serial",
+          "type": "TYPE: Active Release",
+          "img": "img/file_000000004dc8722f8f519e5ad8b4e424.png",
+          "alt": "Root of a Giant Dream Cover",
+          "synopsis": "An exploratory narrative delving into massive scale architectural dreams and digital consciousness landscapes.",
+          "links": [
+            { "text": "Read Online (Coming Soon)", "url": "#", "external": false }
+          ]
+        },
       ]
     },
     {
@@ -107,6 +682,21 @@
         {
           "id": "judgementday",
           "fileName": "Judgement Day.ser (soon)",
+          "icon": "fa-regular fa-file-lines file-icon",
+          "status": "offline",
+          "title": "Judgement Day",
+          "size": "SIZE: Serialized Novel",
+          "type": "TYPE: Upcoming",
+          "img": "img/file_000000004dc8722f8f519e5ad8b4e424.png",
+          "alt": "Judgement Day Cover",
+          "synopsis": "The concluding chapter and resolution of the overarching series arc.",
+          "links": [
+            { "text": "Coming Soon", "url": "#", "external": false }
+          ]
+        },
+        {
+          "id": "Yesterday (side Story)",
+          "fileName": "Yesterday.ser (soon)",
           "icon": "fa-regular fa-file-lines file-icon",
           "status": "offline",
           "title": "Judgement Day",
