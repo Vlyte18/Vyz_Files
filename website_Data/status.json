@@ -1,0 +1,6 @@
+{
+    "online": true,
+    "hide": false,
+    "onlineLabel": "[ STATE: ONLINE ]",
+    "offlineLabel": "[ STATE: OFFLINE ]"
+}

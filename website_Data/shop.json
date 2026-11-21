@@ -1,6 +1,9 @@
 [
     {
         "title": "Website Template",
+        "category": "Templates",
+        "pricingType": "Paid",
+        "version": "v1.0",
         "cardClass": "vendor-card tier-premium",
         "tagText": "TOOLKIT_EXT",
         "tagClass": "vendor-tag engine-tag",
@@ -20,6 +23,9 @@
     },
     {
         "title": "Retro Interface Module",
+        "category": "UI Assets",
+        "pricingType": "Paid",
+        "version": "v1.0",
         "cardClass": "vendor-card tier-standard",
         "tagText": "ASSET_PACK",
         "tagClass": "vendor-tag asset-tag",
@@ -39,6 +45,9 @@
     },
     {
         "title": "Cybernetic Loop Array",
+        "category": "Audio",
+        "pricingType": "Free",
+        "version": "v1.0",
         "cardClass": "vendor-card tier-free",
         "tagText": "AUDIO_STEM",
         "tagClass": "vendor-tag audio-tag",

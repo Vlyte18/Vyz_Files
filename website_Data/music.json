@@ -1,181 +1,333 @@
 [
-    {
-        "albumTitle": "// In The Dark (Album)",
-        "sectionId": "album-in-the-dark",
-        "tracks": [
-            {
-                "trackId": "IDT_track_1",
-                "title": "Echo In The Dark",
-                "artist": "Vyz_Lyte",
-                "coverArt": "https://raw.githubusercontent.com/Vlyte18/Vyz_Files/f02087966f775f176efdfae1a44a9e47add2069a/music/art/file_00000000ee7c61fd8d90742065f479fb.png",
-                "audioUrl": "https://raw.githubusercontent.com/Vlyte18/Vyz_Files/f02087966f775f176efdfae1a44a9e47add2069a/music/In%20the%20dark/Echo%20in%20the%20dark.mp3",
-                "lyrics": "Transmitted lyrics for Echo In The Dark..."
-            },
-            {
-                "trackId": "IDT_track_2",
-                "title": "Whisper In The Dark",
-                "artist": "Vyz_Lyte",
-                "coverArt": "https://raw.githubusercontent.com/Vlyte18/Vyz_Files/f02087966f775f176efdfae1a44a9e47add2069a/music/art/file_00000000ee7c61fd8d90742065f479fb.png",
-                "audioUrl": "https://raw.githubusercontent.com/Vlyte18/Vyz_Files/f02087966f775f176efdfae1a44a9e47add2069a/music/In%20the%20dark/Whispers%20in%20the%20Dark.mp3",
-                "lyrics": "Transmitted lyrics for Whisper In The Dark..."
-            },
-            {
-                "trackId": "IDT_track_3",
-                "title": "Screams In The Dark",
-                "artist": "Vyz_Lyte",
-                "coverArt": "https://raw.githubusercontent.com/Vlyte18/Vyz_Files/f02087966f775f176efdfae1a44a9e47add2069a/music/art/file_00000000ee7c61fd8d90742065f479fb.png",
-                "audioUrl": "https://raw.githubusercontent.com/Vlyte18/Vyz_Files/f02087966f775f176efdfae1a44a9e47add2069a/music/In%20the%20dark/Screams%20in%20the%20Silence.mp3",
-                "lyrics": "Transmitted lyrics for Screams In The Dark..."
-            },
-            {
-                "trackId": "IDT_track_4",
-                "title": "Never In The Dark",
-                "artist": "Vyz_Lyte",
-                "coverArt": "https://raw.githubusercontent.com/Vlyte18/Vyz_Files/f02087966f775f176efdfae1a44a9e47add2069a/music/art/file_00000000ee7c61fd8d90742065f479fb.png",
-                "audioUrl": "https://raw.githubusercontent.com/Vlyte18/Vyz_Files/f02087966f775f176efdfae1a44a9e47add2069a/music/In%20the%20dark/never%20left%20in%20the%20dark%20(3).mp3",
-                "lyrics": "Transmitted lyrics for Never In The Dark..."
-            },
-            {
-                "trackId": "IDT_track_5",
-                "title": "Temptation in the Dark",
-                "artist": "Vyz_Lyte",
-                "coverArt": "https://raw.githubusercontent.com/Vlyte18/Vyz_Files/f02087966f775f176efdfae1a44a9e47add2069a/music/art/file_00000000ee7c61fd8d90742065f479fb.png",
-                "audioUrl": "https://raw.githubusercontent.com/Vlyte18/Vyz_Files/f02087966f775f176efdfae1a44a9e47add2069a/music/In%20the%20dark/Temtation%20in%20the%20dark.mp3",
-                "lyrics": "Transmitted lyrics for Temptation in the Dark..."
-            },
-            {
-                "trackId": "IDT_track_6",
-                "title": "Always in the Dark",
-                "artist": "Vyz_Lyte",
-                "coverArt": "https://raw.githubusercontent.com/Vlyte18/Vyz_Files/f02087966f775f176efdfae1a44a9e47add2069a/music/art/file_00000000ee7c61fd8d90742065f479fb.png",
-                "audioUrl": "https://raw.githubusercontent.com/Vlyte18/Vyz_Files/f02087966f775f176efdfae1a44a9e47add2069a/music/In%20the%20dark/Always%20in%20the%20dark.mp3",
-                "lyrics": "Transmitted lyrics for Always in the Dark..."
-            },
-            {
-                "trackId": "IDT_track_7",
-                "title": "Between Light To Dark",
-                "artist": "Vyz_Lyte",
-                "coverArt": "https://raw.githubusercontent.com/Vlyte18/Vyz_Files/f02087966f775f176efdfae1a44a9e47add2069a/music/art/file_00000000ee7c61fd8d90742065f479fb.png",
-                "audioUrl": "https://raw.githubusercontent.com/Vlyte18/Vyz_Files/f02087966f775f176efdfae1a44a9e47add2069a/music/In%20the%20dark/Between%20the%20dark.mp3",
-                "lyrics": "Transmitted lyrics for Between Light To Dark..."
-            },
-            {
-                "trackId": "IDT_track_8",
-                "title": "Return To The Dark",
-                "artist": "Vyz_Lyte",
-                "coverArt": "https://raw.githubusercontent.com/Vlyte18/Vyz_Files/f02087966f775f176efdfae1a44a9e47add2069a/music/art/file_00000000ee7c61fd8d90742065f479fb.png",
-                "audioUrl": "https://raw.githubusercontent.com/Vlyte18/Vyz_Files/f02087966f775f176efdfae1a44a9e47add2069a/music/In%20the%20dark/Return%20to%20the%20Dark.mp3",
-                "lyrics": "Transmitted lyrics for Return To The Dark..."
-            },
-            {
-                "trackId": "IDT_track_9",
-                "title": "Confused in the Dark",
-                "artist": "Vyz_Lyte",
-                "coverArt": "https://raw.githubusercontent.com/Vlyte18/Vyz_Files/f02087966f775f176efdfae1a44a9e47add2069a/music/art/file_00000000ee7c61fd8d90742065f479fb.png",
-                "audioUrl": "https://raw.githubusercontent.com/Vlyte18/Vyz_Files/f02087966f775f176efdfae1a44a9e47add2069a/music/In%20the%20dark/Confused%20in%20the%20dark.mp3",
-                "lyrics": "Transmitted lyrics for Confused in the Dark..."
-            }
-        ]
-    },
-    {
-        "albumTitle": "// Christian Music",
-        "sectionId": "album-christian",
-        "marginTop": "40px",
-        "tracks": [
-            {
-                "trackId": "CM_track_1",
-                "title": "Drop",
-                "artist": "Vyz_Lyte",
-                "coverArt": "",
-                "audioUrl": "path/to/audio/Drop%20(1).mp3",
-                "lyrics": "Transmitted lyrics for Drop..."
-            },
-            {
-                "trackId": "CM_track_2",
-                "title": "Hollowed Christmas",
-                "artist": "Vyz_Lyte",
-                "coverArt": "",
-                "audioUrl": "path/to/audio/A%20hollow%20Christmas%20%20(1).mp3",
-                "lyrics": "Transmitted lyrics for Hollowed Christmas..."
-            },
-            {
-                "trackId": "CM_track_3",
-                "title": "Black Tendril",
-                "artist": "Vyz_Lyte",
-                "coverArt": "",
-                "audioUrl": "path/to/audio/Black%20tendril.mp3",
-                "lyrics": "Transmitted lyrics for Black Tendril..."
-            },
-            {
-                "trackId": "CM_track_4",
-                "title": "Black Light",
-                "artist": "Vyz_Lyte",
-                "coverArt": "",
-                "audioUrl": "path/to/audio/Blacklight%20.mp3",
-                "lyrics": "Transmitted lyrics for Black Light..."
-            }
-        ]
-    },
-    {
-        "albumTitle": "// Heart Wrench Music",
-        "sectionId": "album-heart-wrench",
-        "marginTop": "40px",
-        "tracks": [
-            {
-                "trackId": "HWM_track_1",
-                "title": "Binding Lies",
-                "artist": "Vyz_Lyte",
-                "coverArt": "",
-                "audioUrl": "path/to/audio/binding_lies.mp3",
-                "lyrics": "Transmitted lyrics for Binding Lies..."
-            },
-            {
-                "trackId": "HWM_track_2",
-                "title": "Hollowed Christmas",
-                "artist": "Vyz_Lyte",
-                "coverArt": "",
-                "audioUrl": "path/to/audio/A%20hollow%20Christmas%20%20(1).mp3",
-                "lyrics": "Transmitted lyrics for Hollowed Christmas..."
-            },
-            {
-                "trackId": "HWM_track_3",
-                "title": "Black Tendril",
-                "artist": "Vyz_Lyte",
-                "coverArt": "",
-                "audioUrl": "path/to/audio/Black%20tendril.mp3",
-                "lyrics": "Transmitted lyrics for Black Tendril..."
-            },
-            {
-                "trackId": "HWM_track_4",
-                "title": "Black Light",
-                "artist": "Vyz_Lyte",
-                "coverArt": "",
-                "audioUrl": "path/to/audio/Blacklight%20.mp3",
-                "lyrics": "Transmitted lyrics for Black Light..."
-            },
-            {
-                "trackId": "HWM_track_5",
-                "title": "Eternal Rest",
-                "artist": "Vyz_Lyte",
-                "coverArt": "",
-                "audioUrl": "path/to/audio/Eternal%20rest.mp3",
-                "lyrics": "Transmitted lyrics for Eternal Rest..."
-            }
-        ]
-    },
-    {
-        "albumTitle": "// Smut Music",
-        "sectionId": "album-smut",
-        "marginTop": "40px",
-        "tracks": [
-            {
-                "trackId": "SM_track_1",
-                "title": "Daddy's Girl",
-                "artist": "Vyz_Lyte",
-                "coverArt": "",
-                "audioUrl": "path/to/audio/Daddy%20knows.mp3",
-                "lyrics": "Transmitted lyrics for Daddy's Girl..."
-            }
-        ]
-    }
+  {
+    "albumTitle": "// In The Dark (Album)",
+    "sectionId": "album-in-the-dark",
+    "tracks": [
+      {
+        "trackId": "IDT_track_1",
+        "title": "Echo In The Dark",
+        "artist": "Vyz_Lyte",
+        "genre": [
+          "Dark Ambient",
+          "Atmospheric"
+        ],
+        "coverArt": "https://raw.githubusercontent.com/Vlyte18/Vyz_Files/f02087966f775f176efdfae1a44a9e47add2069a/music/art/file_00000000ee7c61fd8d90742065f479fb.png",
+        "audioUrl": "https://raw.githubusercontent.com/Vlyte18/Vyz_Files/f02087966f775f176efdfae1a44a9e47add2069a/music/In%20the%20dark/Echo%20in%20the%20dark.mp3",
+        "format": "audio/mpeg",
+        "desc": "A girl comes to her test. Feeling as if God has gone quiet. She has now come to her place where he left her and cries to hear his voice once more.",
+        "meta": "CODEC: MP3 Core | BITRATE: 320kbps | REGION: Root@Archive",
+        "lyricsFile": "https://raw.githubusercontent.com/Vlyte18/Vyz_Files/f02087966f775f176efdfae1a44a9e47add2069a/music/Lyrics/echo_in_the_dark.txt",
+        "lyrics": "Transmitted lyrics for Echo In The Dark..."
+      },
+      {
+        "trackId": "IDT_track_2",
+        "title": "Whisper In The Dark",
+        "artist": "Vyz_Lyte",
+        "genre": [
+          "Dark Ambient",
+          "Atmospheric"
+        ],
+        "coverArt": "https://raw.githubusercontent.com/Vlyte18/Vyz_Files/f02087966f775f176efdfae1a44a9e47add2069a/music/art/file_00000000ee7c61fd8d90742065f479fb.png",
+        "audioUrl": "https://raw.githubusercontent.com/Vlyte18/Vyz_Files/f02087966f775f176efdfae1a44a9e47add2069a/music/In%20the%20dark/Whispers%20in%20the%20Dark.mp3",
+        "format": "audio/mpeg",
+        "desc": "God responds to a broken hearted girl who calls to him.",
+        "meta": "CODEC: WAVE Lossless Core | BITRATE: 1411kbps | INTERFACE: System Deck",
+        "lyricsFile": "",
+        "lyrics": "Transmitted lyrics for Whisper In The Dark..."
+      },
+      {
+        "trackId": "IDT_track_3",
+        "title": "Screams In The Dark",
+        "artist": "Vyz_Lyte",
+        "genre": [
+          "Dark Ambient",
+          "Atmospheric"
+        ],
+        "coverArt": "https://raw.githubusercontent.com/Vlyte18/Vyz_Files/f02087966f775f176efdfae1a44a9e47add2069a/music/art/file_00000000ee7c61fd8d90742065f479fb.png",
+        "audioUrl": "https://raw.githubusercontent.com/Vlyte18/Vyz_Files/f02087966f775f176efdfae1a44a9e47add2069a/music/In%20the%20dark/Screams%20in%20the%20Silence.mp3",
+        "format": "audio/mpeg",
+        "desc": "Desperation peaks as the silence remains unbroken.",
+        "meta": "CODEC: MP3 Core | BITRATE: 320kbps | REGION: Root@Archive",
+        "lyricsFile": "",
+        "lyrics": "Transmitted lyrics for Screams In The Dark..."
+      },
+      {
+        "trackId": "IDT_track_4",
+        "title": "Never In The Dark",
+        "artist": "Vyz_Lyte",
+        "genre": [
+          "Dark Ambient",
+          "Atmospheric"
+        ],
+        "coverArt": "https://raw.githubusercontent.com/Vlyte18/Vyz_Files/f02087966f775f176efdfae1a44a9e47add2069a/music/art/file_00000000ee7c61fd8d90742065f479fb.png",
+        "audioUrl": "https://raw.githubusercontent.com/Vlyte18/Vyz_Files/f02087966f775f176efdfae1a44a9e47add2069a/music/In%20the%20dark/never%20left%20in%20the%20dark%20(3).mp3",
+        "format": "audio/mpeg",
+        "desc": "Realization that light was always within reach.",
+        "meta": "CODEC: MP3 Core | BITRATE: 320kbps | REGION: Root@Archive",
+        "lyricsFile": "",
+        "lyrics": "Transmitted lyrics for Never In The Dark..."
+      },
+      {
+        "trackId": "IDT_track_5",
+        "title": "Temptation In The Dark",
+        "artist": "Vyz_Lyte",
+        "genre": [
+          "Dark Ambient",
+          "Atmospheric"
+        ],
+        "coverArt": "https://raw.githubusercontent.com/Vlyte18/Vyz_Files/f02087966f775f176efdfae1a44a9e47add2069a/music/art/file_00000000ee7c61fd8d90742065f479fb.png",
+        "audioUrl": "https://raw.githubusercontent.com/Vlyte18/Vyz_Files/f02087966f775f176efdfae1a44a9e47add2069a/music/In%20the%20dark/Temtation%20in%20the%20dark.mp3",
+        "format": "audio/mpeg",
+        "desc": "Whispers of doubt whispering in the shadows.",
+        "meta": "CODEC: MP3 Core | BITRATE: 320kbps | REGION: Root@Archive",
+        "lyricsFile": "",
+        "lyrics": "Transmitted lyrics for Temptation in the Dark..."
+      },
+      {
+        "trackId": "IDT_track_6",
+        "title": "Always In The Dark",
+        "artist": "Vyz_Lyte",
+        "genre": [
+          "Dark Ambient",
+          "Atmospheric"
+        ],
+        "coverArt": "https://raw.githubusercontent.com/Vlyte18/Vyz_Files/f02087966f775f176efdfae1a44a9e47add2069a/music/art/file_00000000ee7c61fd8d90742065f479fb.png",
+        "audioUrl": "https://raw.githubusercontent.com/Vlyte18/Vyz_Files/f02087966f775f176efdfae1a44a9e47add2069a/music/In%20the%20dark/Always%20in%20the%20dark.mp3",
+        "format": "audio/mpeg",
+        "desc": "Acceptance of the nocturnal veil.",
+        "meta": "CODEC: MP3 Core | BITRATE: 320kbps | REGION: Root@Archive",
+        "lyricsFile": "",
+        "lyrics": "Transmitted lyrics for Always in the Dark..."
+      },
+      {
+        "trackId": "IDT_track_7",
+        "title": "Between Light To Dark",
+        "artist": "Vyz_Lyte",
+        "genre": [
+          "Dark Ambient",
+          "Atmospheric"
+        ],
+        "coverArt": "https://raw.githubusercontent.com/Vlyte18/Vyz_Files/f02087966f775f176efdfae1a44a9e47add2069a/music/art/file_00000000ee7c61fd8d90742065f479fb.png",
+        "audioUrl": "https://raw.githubusercontent.com/Vlyte18/Vyz_Files/f02087966f775f176efdfae1a44a9e47add2069a/music/In%20the%20dark/Between%20the%20dark.mp3",
+        "format": "audio/mpeg",
+        "desc": "Standing at the threshold of transition.",
+        "meta": "CODEC: MP3 Core | BITRATE: 320kbps | REGION: Root@Archive",
+        "lyricsFile": "",
+        "lyrics": "Transmitted lyrics for Between Light To Dark..."
+      },
+      {
+        "trackId": "IDT_track_8",
+        "title": "Return To The Dark",
+        "artist": "Vyz_Lyte",
+        "genre": [
+          "Dark Ambient",
+          "Atmospheric"
+        ],
+        "coverArt": "https://raw.githubusercontent.com/Vlyte18/Vyz_Files/f02087966f775f176efdfae1a44a9e47add2069a/music/art/file_00000000ee7c61fd8d90742065f479fb.png",
+        "audioUrl": "https://raw.githubusercontent.com/Vlyte18/Vyz_Files/f02087966f775f176efdfae1a44a9e47add2069a/music/In%20the%20dark/Return%20to%20the%20Dark.mp3",
+        "format": "audio/mpeg",
+        "desc": "Journeying back into the familiar abyss.",
+        "meta": "CODEC: MP3 Core | BITRATE: 320kbps | REGION: Root@Archive",
+        "lyricsFile": "",
+        "lyrics": "Transmitted lyrics for Return To The Dark..."
+      },
+      {
+        "trackId": "IDT_track_9",
+        "title": "Confused In The Dark",
+        "artist": "Vyz_Lyte",
+        "genre": [
+          "Dark Ambient",
+          "Atmospheric"
+        ],
+        "coverArt": "https://raw.githubusercontent.com/Vlyte18/Vyz_Files/f02087966f775f176efdfae1a44a9e47add2069a/music/art/file_00000000ee7c61fd8d90742065f479fb.png",
+        "audioUrl": "https://raw.githubusercontent.com/Vlyte18/Vyz_Files/f02087966f775f176efdfae1a44a9e47add2069a/music/In%20the%20dark/Confused%20in%20the%20dark.mp3",
+        "format": "audio/mpeg",
+        "desc": "Losing orientation in the fog of uncertainty.",
+        "meta": "CODEC: MP3 Core | BITRATE: 320kbps | REGION: Root@Archive",
+        "lyricsFile": "",
+        "lyrics": "Transmitted lyrics for Confused in the Dark..."
+      }
+    ]
+  },
+  {
+    "albumTitle": "// Christian Music",
+    "sectionId": "album-christian",
+    "marginTop": "40px",
+    "tracks": [
+      {
+        "trackId": "CM_track_1",
+        "title": "Drop",
+        "artist": "Vyz_Lyte",
+        "genre": [
+          "Spiritual",
+          "Contemporary"
+        ],
+        "coverArt": "",
+        "audioUrl": "https://raw.githubusercontent.com/Vlyte18/Vyz_Files/f02087966f775f176efdfae1a44a9e47add2069a/music/Christian/Drop%20(1).mp3",
+        "format": "audio/mpeg",
+        "desc": "Transmitted audio archive node for Drop.",
+        "meta": "CODEC: MP3 Core | BITRATE: 320kbps | REGION: Christian Music",
+        "lyricsFile": "",
+        "lyrics": "Transmitted lyrics for Drop..."
+      },
+      {
+        "trackId": "CM_track_2",
+        "title": "Hollowed Christmas",
+        "artist": "Vyz_Lyte",
+        "genre": [
+          "Spiritual",
+          "Contemporary"
+        ],
+        "coverArt": "",
+        "audioUrl": "https://raw.githubusercontent.com/Vlyte18/Vyz_Files/f02087966f775f176efdfae1a44a9e47add2069a/music/Christian/A%20hollow%20Christmas%20%20(1).mp3",
+        "format": "audio/mpeg",
+        "desc": "Transmitted audio archive node for Hollowed Christmas.",
+        "meta": "CODEC: MP3 Core | BITRATE: 320kbps | REGION: Christian Music",
+        "lyricsFile": "",
+        "lyrics": "Transmitted lyrics for Hollowed Christmas..."
+      },
+      {
+        "trackId": "CM_track_3",
+        "title": "Black Tendril",
+        "artist": "Vyz_Lyte",
+        "genre": [
+          "Spiritual",
+          "Contemporary"
+        ],
+        "coverArt": "",
+        "audioUrl": "https://raw.githubusercontent.com/Vlyte18/Vyz_Files/f02087966f775f176efdfae1a44a9e47add2069a/music/Christian/Black%20tendril.mp3",
+        "format": "audio/mpeg",
+        "desc": "Transmitted audio archive node for Black Tendril.",
+        "meta": "CODEC: MP3 Core | BITRATE: 320kbps | REGION: Christian Music",
+        "lyricsFile": "",
+        "lyrics": "Transmitted lyrics for Black Tendril..."
+      },
+      {
+        "trackId": "CM_track_4",
+        "title": "Black Light",
+        "artist": "Vyz_Lyte",
+        "genre": [
+          "Spiritual",
+          "Contemporary"
+        ],
+        "coverArt": "",
+        "audioUrl": "https://raw.githubusercontent.com/Vlyte18/Vyz_Files/f02087966f775f176efdfae1a44a9e47add2069a/music/Christian/Blacklight%20.mp3",
+        "format": "audio/mpeg",
+        "desc": "Transmitted audio archive node for Black Light.",
+        "meta": "CODEC: MP3 Core | BITRATE: 320kbps | REGION: Christian Music",
+        "lyricsFile": "",
+        "lyrics": "Transmitted lyrics for Black Light..."
+      }
+    ]
+  },
+  {
+    "albumTitle": "// Heart Wrench Music",
+    "sectionId": "album-heart-wrench",
+    "marginTop": "40px",
+    "tracks": [
+      {
+        "trackId": "HWM_track_1",
+        "title": "Binding Lies",
+        "artist": "Vyz_Lyte",
+        "genre": [
+          "Emotional",
+          "Ballad"
+        ],
+        "coverArt": "",
+        "audioUrl": "https://raw.githubusercontent.com/Vlyte18/Vyz_Files/f02087966f775f176efdfae1a44a9e47add2069a/music/Binding_Lies.mp3",
+        "format": "audio/mpeg",
+        "desc": "Entangled in promises that fell apart.",
+        "meta": "CODEC: MP3 Core | BITRATE: 320kbps | REGION: Heart Wrench Archive",
+        "lyricsFile": "",
+        "lyrics": "Transmitted lyrics for Binding Lies..."
+      },
+      {
+        "trackId": "HWM_track_2",
+        "title": "Hollowed Christmas",
+        "artist": "Vyz_Lyte",
+        "genre": [
+          "Emotional",
+          "Ballad"
+        ],
+        "coverArt": "",
+        "audioUrl": "https://raw.githubusercontent.com/Vlyte18/Vyz_Files/f02087966f775f176efdfae1a44a9e47add2069a/music/HeartWrench/A%20hollow%20Christmas%20%20(1).mp3",
+        "format": "audio/mpeg",
+        "desc": "Transmitted audio archive node for Hollowed Christmas.",
+        "meta": "CODEC: MP3 Core | BITRATE: 320kbps | REGION: Heart Wrench Music",
+        "lyricsFile": "",
+        "lyrics": "Transmitted lyrics for Hollowed Christmas..."
+      },
+      {
+        "trackId": "HWM_track_3",
+        "title": "Black Tendril",
+        "artist": "Vyz_Lyte",
+        "genre": [
+          "Emotional",
+          "Ballad"
+        ],
+        "coverArt": "",
+        "audioUrl": "https://raw.githubusercontent.com/Vlyte18/Vyz_Files/f02087966f775f176efdfae1a44a9e47add2069a/music/HeartWrench/Black%20tendril.mp3",
+        "format": "audio/mpeg",
+        "desc": "Transmitted audio archive node for Black Tendril.",
+        "meta": "CODEC: MP3 Core | BITRATE: 320kbps | REGION: Heart Wrench Music",
+        "lyricsFile": "",
+        "lyrics": "Transmitted lyrics for Black Tendril..."
+      },
+      {
+        "trackId": "HWM_track_4",
+        "title": "Black Light",
+        "artist": "Vyz_Lyte",
+        "genre": [
+          "Emotional",
+          "Ballad"
+        ],
+        "coverArt": "",
+        "audioUrl": "https://raw.githubusercontent.com/Vlyte18/Vyz_Files/f02087966f775f176efdfae1a44a9e47add2069a/music/HeartWrench/Blacklight%20.mp3",
+        "format": "audio/mpeg",
+        "desc": "Transmitted audio archive node for Black Light.",
+        "meta": "CODEC: MP3 Core | BITRATE: 320kbps | REGION: Heart Wrench Music",
+        "lyricsFile": "",
+        "lyrics": "Transmitted lyrics for Black Light..."
+      },
+      {
+        "trackId": "HWM_track_5",
+        "title": "Eternal Rest",
+        "artist": "Vyz_Lyte",
+        "genre": [
+          "Emotional",
+          "Ballad"
+        ],
+        "coverArt": "",
+        "audioUrl": "https://raw.githubusercontent.com/Vlyte18/Vyz_Files/f02087966f775f176efdfae1a44a9e47add2069a/music/HeartWrench/Eternal%20rest.mp3",
+        "format": "audio/mpeg",
+        "desc": "Transmitted audio archive node for Eternal Rest.",
+        "meta": "CODEC: MP3 Core | BITRATE: 320kbps | REGION: Heart Wrench Music",
+        "lyricsFile": "",
+        "lyrics": "Transmitted lyrics for Eternal Rest..."
+      }
+    ]
+  },
+  {
+    "albumTitle": "// Smut Music",
+    "sectionId": "album-smut",
+    "marginTop": "40px",
+    "tracks": [
+      {
+        "trackId": "SM_track_1",
+        "title": "Daddy's Girl",
+        "artist": "Vyz_Lyte",
+        "genre": [
+          "Dark Electronic",
+          "Explicit"
+        ],
+        "coverArt": "",
+        "audioUrl": "https://raw.githubusercontent.com/Vlyte18/Vyz_Files/f02087966f775f176efdfae1a44a9e47add2069a/music/Smut/Daddy%20knows.mp3",
+        "format": "audio/mpeg",
+        "desc": "Transmitted audio archive node for Daddy's Girl.",
+        "meta": "CODEC: MP3 Core | BITRATE: 320kbps | REGION: Smut Music",
+        "lyricsFile": "",
+        "lyrics": "Transmitted lyrics for Daddy's Girl..."
+      }
+    ]
+  }
 ]
